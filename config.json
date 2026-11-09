@@ -4,7 +4,7 @@
       "id": "start",
       "title": {
         "en": "Brooklyn Menahan Classroom Setup",
-        "es": "Configuración del aula de Menahan en Brooklyn"
+        "es": "Configuración de la sala grande de Menahan en Brooklyn"
       },
       "steps": [
         {
@@ -21,7 +21,7 @@
         {
           "instruction": {
             "en": "Next, let's make sure the TV input is set to 'HDMI 2'. Press the input button on the side and then use the touch screen to select 'HDMI 2'.",
-            "es": ""
+            "es": "A continuación, asegurémonos de que la entrada de la TV esté configurada en 'HDMI 2'. Presione el botón de entrada en el costado y luego use la pantalla táctil para seleccionar 'HDMI 2'."
           },
           "video_url": "https://drive.google.com/file/d/18c1RXM59p4BWO06fR_Cb4FOyUfo7c3S9/view?usp=sharing",
           "alt": {
@@ -32,7 +32,7 @@
         {
           "instruction": {
             "en": "Now, let's turn our attention to the main computer. If the screen isn't already showing you a computer, check to see that the computer is on. It is located in the black shelf directly beneath the main TV.",
-            "es": ""
+            "es": "Ahora, centrémonos en la computadora principal. Si la pantalla aún no le muestra una computadora, verifique que la computadora esté encendida. Está ubicada en el estante negro directamente debajo de la TV principal."
           },
           "video_url": "https://drive.google.com/file/d/1XiVDlk1KNfIlpqJmmImNamxxwYKRlYe7/view?usp=sharing",
           "alt": {
@@ -43,12 +43,12 @@
         {
           "instruction": {
             "en": "Once the screen for the computer is on, look for the Menahan Small Classroom Keyboard. It looks like this and usually is on the black shelf underneath or on one of the classroom tables.",
-            "es": ""
+            "es": "Una vez que la pantalla de la computadora esté encendida, busque el teclado del aula pequeña de Menahan. Se ve así y por lo general está en el estante negro debajo o en una de las mesas del aula."
           },
           "image": "SMALMEN.classKeyboard.jpg",
           "alt": {
-            "en": "Image showing the Menahan Big Room Keyboard",
-            "es": "Imagen que muestra el teclado de la sala grande de Menahan"
+            "en": "Image showing the Menahan Small Room Keyboard",
+            "es": "Imagen que muestra el teclado de la sala pequeña de Menahan"
           }
         },
         {
@@ -58,8 +58,8 @@
           },
           "image": "SMALMEN.keyboardON.jpg",
           "alt": {
-            "en": "Image showing the Menahan Big Room Keyboard switch as ON",
-            "es": "Imagen que muestra el interruptor del teclado de la sala grande de Menahan en ENCENDIDO"
+            "en": "Image showing the Menahan Small Room Keyboard switch as ON",
+            "es": "Imagen que muestra el interruptor del teclado de la sala pequeña de Menahan en ENCENDIDO"
           }
         },
         {
