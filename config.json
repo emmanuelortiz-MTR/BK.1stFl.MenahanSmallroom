@@ -1,0 +1,79 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": {
+        "en": "Brooklyn Menahan Classroom Setup",
+        "es": "Configuración del aula de Menahan en Brooklyn"
+      },
+      "steps": [
+        {
+          "instruction": {
+            "en": "First, let's turn on our Main TV. After pushing the power button, check to see that the light in the front of the TV lights up blue",
+            "es": "Primero, encendamos nuestra TV principal. Después de presionar el botón de encendido, verifique que la luz en el frente de la TV se ilumine en azul."
+          },
+          "video_url": "https://drive.google.com/file/d/1KzWLYaLNEsvbTl-2FGXnDkujMYs6NUef/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to turn the TV on",
+            "es": "Video que muestra cómo encender la TV"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Next, let's make sure the TV input is set to 'HDMI 2'. Press the input button on the side and then use the touch screen to select 'HDMI 2'.",
+            "es": ""
+          },
+          "video_url": "https://drive.google.com/file/d/18c1RXM59p4BWO06fR_Cb4FOyUfo7c3S9/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to change the input to HDMI 2",
+            "es": "Video que muestra cómo cambiar la entrada a HDMI 2"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Now, let's turn our attention to the main computer. If the screen isn't already showing you a computer, check to see that the computer is on. It is located in the black shelf directly beneath the main TV.",
+            "es": ""
+          },
+          "video_url": "https://drive.google.com/file/d/1XiVDlk1KNfIlpqJmmImNamxxwYKRlYe7/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to turn the main computer on",
+            "es": "Video que muestra cómo encender la computadora principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Once the screen for the computer is on, look for the Menahan Small Classroom Keyboard. It looks like this and usually is on the black shelf underneath or on one of the classroom tables.",
+            "es": ""
+          },
+          "image": "SMALMEN.classKeyboard.jpg",
+          "alt": {
+            "en": "Image showing the Menahan Big Room Keyboard",
+            "es": "Imagen que muestra el teclado de la sala grande de Menahan"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Check to make sure that the keyboard is ON",
+            "es": "Verifique que el teclado esté ENCENDIDO"
+          },
+          "image": "SMALMEN.keyboardON.jpg",
+          "alt": {
+            "en": "Image showing the Menahan Big Room Keyboard switch as ON",
+            "es": "Imagen que muestra el interruptor del teclado de la sala grande de Menahan en ENCENDIDO"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Try moving the mouse around or click on keys on the keyboard. Now click on 'Other User' on the bottom left and sign into your profile!",
+            "es": "Intente mover el mouse o presione teclas en el teclado. ¡Ahora haga clic en 'Otro usuario' en la parte inferior izquierda e inicie sesión en su perfil!"
+          },
+          "image": "SMALMEN.otherUserLogin.jpg",
+          "alt": {
+            "en": "Pic displaying the 'Other Users' log in screen on the Main TV",
+            "es": "Imagen que muestra la pantalla de inicio de sesión de 'Otros usuarios' en la TV principal"
+          }
+        }
+      ]
+    }
+  ]
+}
